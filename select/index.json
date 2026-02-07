@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "スーパーウルトラハイパーミラクルロマンチック",
+  "base_artist": "敷島魅零（CV：井口裕香）＆処女まもり（CV：井澤美香子）",
+  "createdAt": "2026-02-07T07:44:01.871274Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スーパーウルトラハイパーミラクルロマンチック",
+      "artist": "敷島魅零（CV：井口裕香）",
+      "has_synced": true,
+      "path": "select/01_スーパーウルトラハイパーミラクルロマンチック_敷島魅零(CV_井口裕香).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スーパーウルトラハイパーミラクルロマンチック",
+      "artist": "敷島魅零",
+      "has_synced": true,
+      "path": "select/02_スーパーウルトラハイパーミラクルロマンチック_敷島魅零.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スーパーウルトラハイパーミラクルロマンチック",
+      "artist": "敷島魅零(CV:井口裕香)&処女まもり(CV:井澤美香子)",
+      "has_synced": false,
+      "path": "select/pl_01_スーパーウルトラハイパーミラクルロマンチック_敷島魅零(CV_井口裕香)&処女まもり(CV_井澤美香子).txt"
+    }
+  ]
+}
